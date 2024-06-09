@@ -1,5 +1,6 @@
 # Diffusion-FOF-Single-view-Clothed-Human-Reconstruction-via-Diffusion-based-Fourier-Occupancy-Field
-#Citation
+Citation 
+
 @inproceedings{Diffusion-FOF2024, 
 
   title={Diffusion-FOF: Single-view Clothed Human Reconstruction via Diffusion-based Fourier Occupancy Field}, 
