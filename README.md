@@ -1,5 +1,5 @@
 # Diffusion-FOF-Single-view-Clothed-Human-Reconstruction-via-Diffusion-based-Fourier-Occupancy-Field
-"Citation" 
+_Citation_ 
 
 @inproceedings{Diffusion-FOF2024, 
 
